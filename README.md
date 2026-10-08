@@ -1,4 +1,4 @@
-## Screenshot of Amazon Elastic Beanstack
+## Screenshot of Amazon Elastic Beanstalk
 <img width="1889" height="787" alt="image" src="https://github.com/user-attachments/assets/674bde98-1b78-4380-923e-e08310f0e224" />
 
 
