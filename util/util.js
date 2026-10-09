@@ -16,7 +16,7 @@ import axios from "axios";
       const response = await axios.get(inputURL, {
       responseType: "arraybuffer",
       headers: {
-    "User-Agent": "Mozilla/5.0 (Node.js image filter application)"
+    "User-Agent": "UdacityImageFilter/1.0 (harshul.jain@accenture.com)"
   }
     });
     console.log(response.data);
